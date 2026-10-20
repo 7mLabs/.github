@@ -30,7 +30,7 @@ Native OS and runtime support differ by package. Check the [platform guide](http
 
 ## Links and contact
 
-[Website](https://7mlabs.com/) · [Facebook](https://www.facebook.com/profile.php?id=61590686053171) · [X / @7mlabs](https://x.com/7mlabs)
+[Website](https://7mlabs.com/) · [Facebook](https://www.facebook.com/7mlabs) · [X / @7mlabs](https://x.com/7mlabs)
 
 For technical questions and reproducible bug reports, use the relevant repository's Issues. General contact: [support@7mlabs.com](mailto:support@7mlabs.com).
 
