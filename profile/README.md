@@ -1,6 +1,10 @@
+![7mlabs — Understand Within. Connect Beyond.](https://raw.githubusercontent.com/7mLabs/.github/main/profile/brand-banner.svg)
+
 # 7mlabs
 
-Tools for self-discovery and meaningful connection.
+**Understand Within. Connect Beyond.**
+
+Technology for self-discovery and meaningful connection.
 
 7mlabs builds developer tools and applications around structured data and systems for self-exploration. **Astro** is our astrology project, with three complementary products:
 
